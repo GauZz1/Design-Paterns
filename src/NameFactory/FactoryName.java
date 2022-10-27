@@ -1,3 +1,5 @@
+package NameFactory;
+
 public class FactoryName {
     public Object getName(String name){
         if(name.contains(",")){

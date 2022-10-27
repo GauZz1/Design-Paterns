@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="696a2ce9-fa48-4ef0-9b7f-db4860c410ab" name="Changes" comment="Study of Design pattern - Factory Method">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eng_software-design_patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileFactory/FactoryFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileFactory/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileFactory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileFactory/confidencial.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileFactory/public.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NameFactory/FactoryName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NameFactory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NameFactory/Name.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
@@ -51,8 +53,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666834216650</updated>
-      <workItem from="1666834218262" duration="6208000" />
+      <workItem from="1666834218262" duration="8382000" />
     </task>
+    <task id="LOCAL-00001" summary="Study of Design pattern - Factory Method">
+      <created>1666840454663</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666840454663</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
