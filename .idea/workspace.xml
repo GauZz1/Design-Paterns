@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="696a2ce9-fa48-4ef0-9b7f-db4860c410ab" name="Changes" comment="Study of Design pattern - Factory Method">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileFactory/FactoryFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileFactory/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileFactory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileFactory/confidencial.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileFactory/public.txt" afterDir="false" />
+    <list default="true" id="696a2ce9-fa48-4ef0-9b7f-db4860c410ab" name="Changes" comment="Study of Design pattern - Factory Method -&gt; Files">
+      <change afterPath="$PROJECT_DIR$/src/LogFactory/FactoryLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogFactory/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogFactory/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactoryName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NameFactory/FactoryName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NameFactory/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NameFactory/Name.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666834216650</updated>
-      <workItem from="1666834218262" duration="8382000" />
+      <workItem from="1666834218262" duration="9932000" />
     </task>
     <task id="LOCAL-00001" summary="Study of Design pattern - Factory Method">
       <created>1666840454663</created>
@@ -62,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666840454663</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Study of Design pattern - Factory Method -&gt; Files">
+      <created>1666842657629</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666842657629</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Study of Design pattern - Factory Method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Study of Design pattern - Factory Method" />
+    <MESSAGE value="Study of Design pattern - Factory Method -&gt; Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Study of Design pattern - Factory Method -&gt; Files" />
   </component>
 </project>
