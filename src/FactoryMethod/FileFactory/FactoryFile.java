@@ -1,4 +1,4 @@
-package FileFactory;
+package FactoryMethod.FileFactory;
 
 public class FactoryFile {
     public Object getFile(String password){

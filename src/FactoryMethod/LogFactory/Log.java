@@ -1,4 +1,4 @@
-package LogFactory;
+package FactoryMethod.LogFactory;
 
 
 import java.io.*;
@@ -17,7 +17,7 @@ public abstract class Log {
     class fileLog extends Log {
 
         public fileLog(String numeros){
-            Path file = Paths.get("src/LogFactory/log.txt");
+            Path file = Paths.get("src/FactoryMethod.LogFactory/log.txt");
             byte data[] = numeros.getBytes();
             try (OutputStream out = new BufferedOutputStream(
                     Files.newOutputStream(file, CREATE, APPEND))) {

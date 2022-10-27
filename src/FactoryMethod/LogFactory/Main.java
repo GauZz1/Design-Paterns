@@ -1,4 +1,4 @@
-package LogFactory;
+package FactoryMethod.LogFactory;
 
 import java.util.Scanner;
 

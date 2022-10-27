@@ -1,4 +1,4 @@
-package FileFactory;
+package FactoryMethod.FileFactory;
 
 import java.util.Scanner;
 

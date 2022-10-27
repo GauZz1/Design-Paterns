@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="696a2ce9-fa48-4ef0-9b7f-db4860c410ab" name="Changes" comment="Study of Design pattern - Factory Method -&gt; Files">
-      <change afterPath="$PROJECT_DIR$/src/LogFactory/FactoryLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogFactory/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogFactory/Main.java" afterDir="false" />
+    <list default="true" id="696a2ce9-fa48-4ef0-9b7f-db4860c410ab" name="Changes" comment="Study of Design pattern - Factory Method -&gt; LOg">
+      <change afterPath="$PROJECT_DIR$/src/Singleton/TesteIncremental.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666834216650</updated>
-      <workItem from="1666834218262" duration="9932000" />
+      <workItem from="1666834218262" duration="12256000" />
     </task>
     <task id="LOCAL-00001" summary="Study of Design pattern - Factory Method">
       <created>1666840454663</created>
@@ -63,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666842657629</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Study of Design pattern - Factory Method -&gt; LOg">
+      <created>1666844374491</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666844374491</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Study of Design pattern - Factory Method" />
     <MESSAGE value="Study of Design pattern - Factory Method -&gt; Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Study of Design pattern - Factory Method -&gt; Files" />
+    <MESSAGE value="Study of Design pattern - Factory Method -&gt; LOg" />
+    <option name="LAST_COMMIT_MESSAGE" value="Study of Design pattern - Factory Method -&gt; LOg" />
   </component>
 </project>

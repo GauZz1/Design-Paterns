@@ -1,4 +1,4 @@
-package NameFactory;
+package FactoryMethod.NameFactory;
 
 import java.util.LinkedList;
 import java.util.List;

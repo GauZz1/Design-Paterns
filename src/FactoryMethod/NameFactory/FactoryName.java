@@ -1,4 +1,4 @@
-package NameFactory;
+package FactoryMethod.NameFactory;
 
 public class FactoryName {
     public Object getName(String name){

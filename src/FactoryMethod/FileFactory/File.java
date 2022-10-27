@@ -1,4 +1,4 @@
-package FileFactory;
+package FactoryMethod.FileFactory;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -17,7 +17,7 @@ public abstract class File{
 class confidentialFile extends File {
 
     public confidentialFile(){
-        Path file = Paths.get("src/FileFactory/confidencial.txt");
+        Path file = Paths.get("src/FactoryMethod.FileFactory/confidencial.txt");
         try (InputStream in = Files.newInputStream(file);
              BufferedReader reader =
                      new BufferedReader(new InputStreamReader(in))) {
@@ -35,7 +35,7 @@ class confidentialFile extends File {
 class publicFile extends File {
 
     public publicFile(){
-        Path file = Paths.get("src/FileFactory/public.txt");
+        Path file = Paths.get("src/FactoryMethod.FileFactory/public.txt");
         try (InputStream in = Files.newInputStream(file);
              BufferedReader reader =
                      new BufferedReader(new InputStreamReader(in))) {
